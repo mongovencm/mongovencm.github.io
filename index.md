@@ -1,9 +1,9 @@
-#Conner Mongoven
+# Conner Mongoven
 
 Welcome to my website.
 
-##Projects
+## Projects
 -- 3112 Project
 
-##Contact
+## Contact
 Conner.Mongoven@colorado.edu
