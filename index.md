@@ -6,7 +6,7 @@ Welcome to my website.
 
 ### Healthcare Dashboard
 Add short description here.
-[View Project](../projects/healthcare-dashboard.md)
+[View Project](projects/healthcare-dashboard/healthcare-dashboard.md)
 
 ## Contact
 Conner.Mongoven@colorado.edu
