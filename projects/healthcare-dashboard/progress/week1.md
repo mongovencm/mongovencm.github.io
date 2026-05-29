@@ -4,7 +4,7 @@
   
 This past week I used GitHub Pages to create the initial structure of my website.
 
-I spent time brainstorming about the direction of my project. I am going to create a Streamlit dashboard that will display interactive health and wellness data visualization. I researched various public health datasets to import and analyze, and, thanks to the recommendation from Professor Guinn, I plan to use data from a research paper focused on soccer athlete health and performance monitoring. Given my background in sports medicine background, and that soccer is my favorite sport, I think this dataset will be motivating and relevant to my interest in healthcare technology.
+I spent time brainstorming about the direction of my project. I am going to create a Streamlit dashboard that will display interactive health and wellness data visualization. I researched various public health datasets to import and analyze, and, thanks to the recommendation from Professor Guinn, I plan to use data from a research paper focused on soccer athlete health and performance monitoring. Given my background in sports medicine, and that soccer is my favorite sport, I think this dataset will be motivating and relevant to my interest in healthcare technology.
 
 Additionally, I started learning more about the Streamlit framework since it will be my first time working with it. I reviewed the pandas library in Python, which I have used previously, and gathered some reference materials to refresh myself on syntax and data manipulation operations as needed.
 
