@@ -7,4 +7,4 @@ Add description of project here.
 Add link to dashboard site here.
 
 ## Progress Journal
-- [Week 1](../progress/healthcare-dashboard/week1.md)
+- [Week 1](../progress/week1.md)
