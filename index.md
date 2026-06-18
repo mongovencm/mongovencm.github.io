@@ -5,7 +5,8 @@ Welcome to my website. My name is Conner and I am a current student in the Compu
 ## Projects
 
 ### Healthcare Dashboard
-Add short description here.
+A Streamlit-based healthcare analytics dashboard designed to track and visualize athlete health and wellness metrics.
+
 [View Project](projects/healthcare-dashboard/dashboard.md)
 
 ---
