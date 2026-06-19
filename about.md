@@ -1,3 +1,5 @@
+[Home](/) | [About Me](about.md)
+
 # About Me
 
 ## Education
