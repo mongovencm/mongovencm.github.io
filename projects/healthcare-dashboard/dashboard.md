@@ -1,4 +1,4 @@
-[Home](/) | [About Me](about.md)
+[Home](/) | [About Me](../../about.md)
 
 # Healthcare Dashboard
 
