@@ -9,6 +9,11 @@ A Streamlit-based healthcare analytics dashboard designed to track and visualize
 
 [View Project](projects/healthcare-dashboard/dashboard.md)
 
+### Skip List Leaderboard
+A C++ program implementing a skip list data structure to maintain a dynamic soccer leaderboard. 
+
+[View Project](projects/skiplist-leaderboard)
+
 ---
 
 ## About Me
