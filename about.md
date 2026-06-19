@@ -33,7 +33,7 @@ Bachelor' degree in Exercise Science
 Interested in healthcare technology, data-driven applications, and machine learning for diagnostics.
 
 ## Resume
-[Download resume](Conner Mongoven Resume - Website.pdf)
+[Download resume](ConnerMongovenResumeWebsite.pdf)
 
 ## Contact
 - Email: Conner.Mongoven@colorado.edu
