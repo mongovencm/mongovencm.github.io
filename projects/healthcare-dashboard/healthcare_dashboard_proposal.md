@@ -82,4 +82,4 @@ Although I have transitioned into software development, I am interested in oppor
 - Successfully create a portfolio-quality project related to healthcare and athlete performance monitoring
 
 ## Project Portfolio Link
-https://mongovencm.github.io/
+[https://mongovencm.github.io/](https://mongovencm.github.io/)
