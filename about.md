@@ -32,6 +32,9 @@ Bachelor' degree in Exercise Science
 ## Career Interests
 Interested in healthcare technology, data-driven applications, and machine learning for diagnostics.
 
+## Resume
+[Download resume](Conner Mongoven Resume - Website.pdf)
+
 ## Contact
 - Email: Conner.Mongoven@colorado.edu
 - LinkedIn: https://www.linkedin.com/in/conner-mongoven
