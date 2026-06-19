@@ -36,6 +36,6 @@ Interested in healthcare technology, data-driven applications, and machine learn
 [Download resume](ConnerMongovenResumeWebsite.pdf)
 
 ## Contact
-- Email: Conner.Mongoven@colorado.edu
-- LinkedIn: https://www.linkedin.com/in/conner-mongoven
-- GitHub: https://github.com/mongovencm
+- Email: [Conner.Mongoven@colorado.edu](mailto:Conner.Mongoven@colorado.edu)
+- LinkedIn: [Profile](https://www.linkedin.com/in/conner-mongoven)
+- GitHub: [mongovencm](https://github.com/mongovencm)
