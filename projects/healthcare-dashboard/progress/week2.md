@@ -1,3 +1,5 @@
+[Home](/) | [About Me](about.md) | [Back](../)
+
 # Week 2
 
 - What did you do last week?
