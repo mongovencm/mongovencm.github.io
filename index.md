@@ -17,6 +17,6 @@ A Streamlit-based healthcare analytics dashboard designed to track and visualize
 ---
 
 ## Contact
-- Email: Conner.Mongoven@colorado.edu
-- LinkedIn: https://www.linkedin.com/in/conner-mongoven
-- GitHub: https://github.com/mongovencm
+- Email: [Conner.Mongoven@colorado.edu](mailto:Conner.Mongoven@colorado.edu)
+- LinkedIn: [Profile](https://www.linkedin.com/in/conner-mongoven)
+- GitHub: [mongovencm](https://github.com/mongovencm)
