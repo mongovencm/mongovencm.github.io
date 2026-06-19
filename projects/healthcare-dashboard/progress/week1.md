@@ -1,4 +1,4 @@
-[Home](/) | [About Me](../../../about.md) | [Back](../)
+[Home](../../../index.md) | [About Me](../../../about.md) | [Back](../)
 
 # Week 1
 
