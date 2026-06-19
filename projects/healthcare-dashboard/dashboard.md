@@ -1,3 +1,5 @@
+[Home](/) | [About Me](about.md)
+
 # Healthcare Dashboard
 
 ## Overview
@@ -36,4 +38,4 @@ Add link to streamlit dashboard site here.
 ---
 
 ## GitHub Repo
-https://github.com/mongovencm/athlete-wellness-dashboard
+[athlete-wellness-dashboard](https://github.com/mongovencm/athlete-wellness-dashboard)
