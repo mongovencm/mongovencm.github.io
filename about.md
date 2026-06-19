@@ -2,16 +2,16 @@
 
 ## Education
 University of Colorado Boulder 
-Computer Science Post-Baccalaureate Program
-Expected Graduation: Fall 2026
+- Computer Science Post-Baccalaureate Program
+- Expected Graduation: Fall 2026
 
 Saint Louis University
-Master's degree in Athletic Training
-2020
+- Master's degree in Athletic Training
+- 2020
 
 Saint Louis University
-Bachelor' degree in Exercise Science
-2019
+- Bachelor' degree in Exercise Science
+- 2019
 
 ## Relevant CS Coursework
 - Data Structures
