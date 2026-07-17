@@ -35,6 +35,7 @@ Add link to streamlit dashboard site here.
 - [Week 2](progress/week2.md)
 - [Week 3](progress/week3.md)
 - [Week 4](progress/week4.md)
+- [Week 9](progress/week9.md)
 
 ---
 
